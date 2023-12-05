@@ -1,0 +1,54 @@
+* {
+  font-family: 'Courier New', monospace;
+}
+
+body {
+  background-color: lightslategray;
+}
+
+h1,
+img,
+.description,
+p {
+  text-align: center;
+}
+
+/* I did some research on how to center an image and found this */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+h2 {
+  font-weight: 200;
+}
+
+.description {
+  color: yellow;
+}
+
+.ingredients {
+  color: blue;
+}
+
+.steps {
+  color: red;
+}
+
+h1{
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p,
+li {
+  font-size: 20px;
+}
