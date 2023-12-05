@@ -1,0 +1,42 @@
+* {
+  font-family: 'Courier New', monospace;
+}
+
+body {
+  background-color: lightslategray;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+li {
+  font-weight: 700;
+}
+
+ul {
+  margin: 0 15px;
+}
+
+ul li,
+a {
+  padding: 10px;
+}
+
+a {
+  font-size: 25px;
+  color: black;
+}
+
+.recipe-one {
+  background-color: yellow;
+}
+
+.recipe-two {
+  background-color: blue;
+}
+
+.recipe-three {
+  background-color: red;
+}
