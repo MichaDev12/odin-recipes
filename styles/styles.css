@@ -6,8 +6,9 @@ body {
   background-color: lightslategray;
 }
 
-h1 {
-  text-align: center;
+ul,
+li {
+  margin: 0 auto;
 }
 
 h1,
@@ -16,7 +17,7 @@ li {
 }
 
 ul {
-  margin: 0 15px;
+  padding: 0;
 }
 
 ul li,
@@ -27,6 +28,19 @@ a {
 a {
   font-size: 25px;
   color: black;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+  margin: 180px 430px;
+  border-radius: 10px;
 }
 
 .recipe-one {
