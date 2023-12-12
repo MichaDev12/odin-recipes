@@ -45,6 +45,7 @@ li {
 
 .recipe-one {
   background-color: yellow;
+  border-top-style: groove;
 }
 
 .recipe-two {
@@ -53,4 +54,13 @@ li {
 
 .recipe-three {
   background-color: red;
+  border-bottom-style: groove;
+}
+
+.recipe-one,
+.recipe-two,
+.recipe-three {
+  border-left-style: groove;
+  border-right-style: groove;
+  border-color: black;
 }
