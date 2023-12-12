@@ -29,6 +29,7 @@ a {
   font-size: 25px;
   color: black;
   text-decoration: none;
+  display: block;
 }
 
 li {
@@ -36,10 +37,10 @@ li {
 }
 
 .container {
-  padding: 10px;
+  padding: 13px;
   background-color: white;
   text-align: center;
-  margin: 180px 430px;
+  margin: 160px 430px;
   border-radius: 10px;
 }
 
