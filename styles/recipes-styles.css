@@ -6,6 +6,13 @@ body {
   background-color: lightslategray;
 }
 
+.recipe-container {
+  padding: 13px;
+  background-color: white;
+  margin: 0 200px;
+  border-radius: 10px;
+}
+
 h1,
 h2,
 ul,
